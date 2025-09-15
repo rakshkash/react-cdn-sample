@@ -1,16 +1,15 @@
 {
   "devDependencies": {
     "gh-pages": "^6.3.0",
-    "parcel": "^2.15.4"
+    "parcel": "^2.15.4",
+    "react-scripts": "^5.0.1"
   },
   "name": "react-cdn",
   "version": "1.0.0",
   "description": "React CDN app boot up",
   "scripts": {
-    "test": "jest",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
-
+    "deploy": "gh-pages -d .",
+    "test": "jest"
   },
   "repository": {
     "type": "git",

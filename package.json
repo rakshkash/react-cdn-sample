@@ -1,0 +1,21 @@
+{
+  "devDependencies": {
+    "parcel": "^2.15.4"
+  },
+  "name": "react-cdn",
+  "version": "1.0.0",
+  "description": "React CDN app boot up",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rakshkash/react-cdn-sample.git"
+  },
+  "author": "raksh-kash",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rakshkash/react-cdn-sample/issues"
+  },
+  "homepage": "https://github.com/rakshkash/react-cdn-sample#readme"
+}
